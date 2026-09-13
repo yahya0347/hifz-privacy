@@ -1,6 +1,6 @@
 # HIFZ — Privacy Policy
 
-**Last updated:** 9 September 2026
+**Last updated:** 14 September 2026
 
 HIFZ is a Qur'an memorization app. This policy describes what the app does
 with information on your device. It reflects how the app actually works.
@@ -44,8 +44,8 @@ Location is not sent to us, and it is not used for advertising or profiling.
 
 ### Microphone
 
-Used only on the **Recite & Check** screen, and only after you start
-recording.
+Used on the **Recite & Check** and **Muraja'ah** screens, and only after you
+start listening.
 
 HIFZ does not record your recitation to a file and does not keep what you
 recited. The speech is converted to text by your device's built-in speech
@@ -61,14 +61,23 @@ Used for prayer alerts and reminders, when you enable them. They are
 scheduled locally on your device. Nothing is sent to a server to deliver
 them.
 
+## What works without a network
+
+The Qur'an text, its translations and the prayer-time calculation are built
+into the app. Reading, memorizing, the Qibla direction and prayer times need
+no connection and send nothing anywhere.
+
 ## Network connections the app makes
 
-HIFZ contacts one service of its own:
+HIFZ requests audio from two services. It has no server of its own:
 
-- **everyayah.com** — the source of Qur'an recitation audio. Playing or
-  downloading a recitation requests audio files from that service. As with
-  any web request, that service can see your IP address and what you
-  requested. HIFZ sends no account information, because there is none.
+- **everyayah.com** — Qur'an recitation audio. Playing or downloading a
+  recitation requests audio files from that service.
+- **cdn.islamic.network** — spoken translations, when you turn them on in
+  Listen.
+
+As with any web request, those services can see your IP address and what you
+requested. HIFZ sends no account information, because there is none.
 
 In addition, your device's own geocoding and speech-recognition services may
 make network requests as described above. Those are operated by your
@@ -93,7 +102,8 @@ updated at the same time.
 ## Contact
 
 <!-- REPLACE: the address you want users to write to. -->
-CONTACT_EMAIL_HERE
+Questions about this policy can be raised at
+<https://github.com/yahya0347/hifz-privacy/issues>.
 
 ## Who provides HIFZ
 
