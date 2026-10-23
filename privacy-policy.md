@@ -1,6 +1,6 @@
 # HIFZ — Privacy Policy
 
-**Last updated:** 14 September 2026
+**Last updated:** 24 October 2026
 
 HIFZ is a Qur'an memorization app. This policy describes what the app does
 with information on your device. It reflects how the app actually works.
@@ -25,8 +25,18 @@ app on your own device.
 - Any recitation audio you choose to download, stored unencrypted in the
   app's own storage
 
-Removing the app removes all of it. We have no copy, because none of it is
-sent to us.
+Removing the app removes it from the device. We have no copy, because none of
+it is sent to us.
+
+## Your phone's own backup
+
+If your phone's backup is turned on, your operating system may include the
+data above in the backup it keeps in your own account (Google on Android,
+iCloud on iOS). This lets your progress return when you move to a new phone.
+On Android, HIFZ leaves downloaded recitation audio out of this backup. The
+backup is made and held by your operating system vendor under their privacy
+policy, not by us; we cannot see it. You can turn it off in your phone's
+settings, and you can delete it from your Google or Apple account.
 
 ## Permissions the app asks for
 
