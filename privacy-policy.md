@@ -108,4 +108,4 @@ Questions about this policy can be raised at
 ## Who provides HIFZ
 
 <!-- REPLACE if the legal entity below is not exactly correct. -->
-Muhammad Yahya Aslam LLC, New Mexico, USA
+Muhammad Yahya Aslam, Pakistan
